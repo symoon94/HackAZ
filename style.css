@@ -1,6 +1,6 @@
 img {
   width: 400px;
-  height: 600px;
+  height: 300px;
 }
 
 background {
@@ -8,7 +8,7 @@ background {
 }
 
 p {
-  color: rgba(100, 12, 0, 0.8);
+  color: rgba(100, 12, 2, 0.8);
   text-color: blue;
 }
 

@@ -2,4 +2,4 @@
 
 ## Education session
 
-[Test Version](https://symoon94.github.io/web_dev/)
+[My Website (Test Version)](https://symoon94.github.io/web_dev/)

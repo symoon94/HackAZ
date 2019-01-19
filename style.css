@@ -4,12 +4,12 @@ img {
 }
 
 body {
-  background-color: DeepSkyBlue;
+  background-color: black;
 }
 
 p {
   color: rgba(100, 12, 2, 0.8);
-  text-color: blue;
+  text-color: white;
   font-size: 20px;
 }
 
